@@ -1,1 +1,1 @@
-# Todos as páginas utilizadas na disciplina de IHM
+# Todos as páginas criadas e utilizadas na disciplina de IHM
